@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "title": "Hello World Threat Model",
+    "owner": "Iason"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Iason"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "MyFirstDiagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
